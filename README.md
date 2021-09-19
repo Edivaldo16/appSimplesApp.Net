@@ -8,4 +8,4 @@ O app desenvolvido pelo instrutor Eliézer Zarpelão tinha o intuito de criar/ca
 
 # Diferenciais
 
-* Retirei a função "Listar" de forma isolada. Coloquei ela em conjunto das funções Atualizar, Excluir e Visualizar dando ao usuário a possibilidade de saberem qual profissional de fato eles irão cadastrar, visualizar ou excluir através do Id. Por favor, quando rodarem o APP apertem o "X". Irá aparecer uma menssagem bem top lá 😀.
+* Retirei a função `Listar` de forma isolada. Coloquei ela em conjunto das funções `Atualizar`, `Excluir` e `Visualizar` dando ao usuário a possibilidade de saberem qual profissional de fato eles irão cadastrar, visualizar ou excluir através do Id. Por favor, quando rodarem o APP apertem o "X". Irá aparecer uma menssagem bem top lá 😀.
