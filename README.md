@@ -1,6 +1,6 @@
 # APP Simples .NET
 
-O app desenvolvido pelo instrutor tinha o intuito de criar/catalogar séries. Utilizando os mesmos princípios básicos criei um app de "cadastro de profissões", em que é possível cadastrar, atualizar, excluir e visualizar os profissionais cadastrados.
+O app desenvolvido pelo instrutor Eliézer Zarpelão tinha o intuito de criar/catalogar séries. Utilizando os mesmos princípios básicos criei um app de "cadastro de profissões", em que é possível cadastrar, atualizar, excluir e visualizar os profissionais cadastrados.
 
 # Problemas
 
