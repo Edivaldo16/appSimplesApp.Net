@@ -4,7 +4,7 @@ O app desenvolvido pelo instrutor tinha o intuito de criar/catalogar séries. Ut
 
 # Problemas
 
-* O programa está rodando perfeitamente, mas admito que não consegui inserir os filtros para evitar erros como os campos nulos. Também não consegui implementar um filtro que garantisse que a variável data fosse digitada corretamente.
+* O programa está rodando perfeitamente, mas admito que não consegui inserir os filtros para evitar erros como os campos nulos. Também não consegui implementar um filtro que garantisse que a variável `data` fosse digitada corretamente.
 
 # Diferenciais
 
