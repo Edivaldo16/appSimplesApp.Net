@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\junio\\OneDrive\\Área de Trabalho\\Edivaldo\\Bootcamps\\2.Bootcamp_Avanede\\4.Criando um APP simples de cadastro de séries em .NET\\Edi\\DIO.Series.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\junio\\OneDrive\\Área de Trabalho\\Edivaldo\\Bootcamps\\2.Bootcamp_Avanede\\4.Criando um APP simples de cadastro de séries em .NET\\Edi\\DIO.Series.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\junio\\OneDrive\\Área de Trabalho\\Edivaldo\\Bootcamps\\2.Bootcamp_Avanede\\4.Criando um APP simples de cadastro de séries em .NET\\Edi\\DIO.Series.csproj",
+        "projectName": "DIO.Series",
+        "projectPath": "C:\\Users\\junio\\OneDrive\\Área de Trabalho\\Edivaldo\\Bootcamps\\2.Bootcamp_Avanede\\4.Criando um APP simples de cadastro de séries em .NET\\Edi\\DIO.Series.csproj",
+        "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\junio\\OneDrive\\Área de Trabalho\\Edivaldo\\Bootcamps\\2.Bootcamp_Avanede\\4.Criando um APP simples de cadastro de séries em .NET\\Edi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

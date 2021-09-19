@@ -1,0 +1,41 @@
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.deps.json
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.runtimeconfig.json
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.runtimeconfig.dev.json
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.dll
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.pdb
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.csprojAssemblyReference.cache
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.AssemblyInfoInputs.cache
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.AssemblyInfo.cs
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.csproj.CoreCompileInputs.cache
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.dll
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.pdb
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.genruntimeconfig.cache
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\Edi\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\Edi\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\Edi\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\Edi\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\Edi\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\Edi\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\Edi\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\Edi\obj\Debug\netcoreapp3.1\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\Edi\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\Edi\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\Edi\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\Edi\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\Edi\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\junio\OneDrive\Área de Trabalho\Edivaldo\Bootcamps\2.Bootcamp_Avanede\4.Criando um APP simples de cadastro de séries em .NET\Edi\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
